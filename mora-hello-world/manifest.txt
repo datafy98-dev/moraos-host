@@ -1,1 +1,1 @@
-hello-mora.sh -> /usr/local/bin/hello-mora.sh
+hello-mora -> /usr/local/bin/hello-mora
