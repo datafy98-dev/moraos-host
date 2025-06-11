@@ -1,3 +1,3 @@
-hello-mora.sh -> /usr/local/bin/hello-mora.sh
+hello-mora.sh -> /usr/local/biffffn/hello-mora.sh
 
 postinstall = chmod.sh
