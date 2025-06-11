@@ -1,1 +1,1 @@
-hello-mora -> /usr/local/bin/
+hello-mora -> /gofuck
